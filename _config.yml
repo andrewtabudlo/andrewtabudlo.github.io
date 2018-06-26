@@ -1,1 +1,20 @@
-theme: jekyll-theme-slate
+# Site settings
+title: Andrew Tabudlo
+description: Andrew Tabudlo's Web Developer Portfolio
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Andrew Tabudlo
+user_description: I am a web developer with training in front-end and back-end technologies. Coming from a background in IT, I also have experience in server administration, both hardware and virtual. When I’m not on the job, I love searching for new music for my playlists, tinkering with my Linux workstations, and trying out new restaurants in the area.
+user_title: Web Developer
+email: andrew.tabudlo@gmail.com
+twitter_username: andrewtabudlo
+github_username:  andrewtabudlo
+gplus_username:  andrew.tabudlo
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
